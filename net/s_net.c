@@ -1,5 +1,9 @@
 #include <string.h>
 
+# This code comes from a stackoverflow post
+# https://stackoverflow.com/questions/307692/how-to-open-and-use-a-socket-in-c
+# I only used it to make a point during a discussion on c code
+
 #include <arpa/inet.h>
 #include <netdb.h> /* getprotobyname */
 #include <netinet/in.h>
